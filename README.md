@@ -47,6 +47,9 @@ Configure Settings (Optional)
 Modify blockPrefabs in GameController to add custom block icons.
 
 🕹️ How to Play
+https://togiss.itch.io/casegame
+![image](https://github.com/user-attachments/assets/7dabbdf6-d3a6-4a61-8957-b3d1dd4c78be)
+
 Set Parameters via UI
 
 Adjust rows (M), columns (N), colors (K), and thresholds (A/B/C).

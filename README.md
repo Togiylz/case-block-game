@@ -1,6 +1,6 @@
 # Block Collapse Puzzle Game - Good Level Up Case Study  
 **A Unity-based puzzle game featuring dynamic grid management, smart deadlock resolution, and performance optimizations.**  
-*Developed for the Good Level Up Development Summer Internship Case Study.*
+*Developed for the Development Summer Internship Case Study.*
 
 ---
 
